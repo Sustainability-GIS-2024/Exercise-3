@@ -1,4 +1,4 @@
-# Exercise 4
+# Exercise 3
 
 The exercise for this week is meant to:
 
@@ -7,5 +7,5 @@ The exercise for this week is meant to:
 
 ## Start your assignment
 
-You can begin your assignment [here](Exercise-4.ipynb).
+You can begin your assignment [here](Exercise-3.ipynb).
 
